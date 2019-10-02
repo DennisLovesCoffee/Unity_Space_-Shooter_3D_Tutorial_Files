@@ -1,0 +1,715 @@
+fileFormatVersion: 2
+guid: 0a15f2ef17680f34eba054a12eb1a223
+timeCreated: 1438104668
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arrow
+    21300002: arrow3
+    21300004: arrow4
+    21300006: arrow5
+    21300008: arrow6
+    21300010: background_scroll_bar
+    21300012: medal_substrate
+    21300014: thumb
+    21300016: arrow2
+    21300018: background_bar
+    21300020: text_field
+    21300022: hand
+    21300024: button
+    21300026: button_pressed
+    21300028: gameover
+    21300030: bronze_medal
+    21300032: getready
+    21300034: coin_back
+    21300036: progrees_bar1
+    21300038: menu
+    21300040: window2
+    21300042: window3
+    21300044: joystick
+    21300046: progrees_bar2
+    21300048: menu_pressed
+    21300050: coin_front
+    21300052: progrees_bar3
+    21300054: ok
+    21300056: coin_side1
+    21300058: progrees_bar4
+    21300060: progrees_bar5
+    21300062: ok_pressed
+    21300064: coin_side2
+    21300066: new
+    21300068: rate
+    21300070: start
+    21300072: tap1
+    21300074: tap2
+    21300076: coin_side3
+    21300078: pause
+    21300080: play
+    21300082: rate_pressed
+    21300084: start_pressed
+    21300086: toggle3
+    21300088: gold_medal
+    21300090: pause_pressed
+    21300092: play_pressed
+    21300094: score
+    21300096: joystick1
+    21300098: thumb2
+    21300100: toggle2
+    21300102: silver_medal
+    21300104: score_pressed
+    21300106: toggle4
+    21300108: window
+    21300110: share
+    21300112: thumb1
+    21300114: toggle
+    21300116: share_pressed
+    21300118: toggle1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 250
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: arrow
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1850
+        width: 132
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrow3
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1908
+        width: 188
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrow4
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1908
+        width: 188
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrow5
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 1911
+        width: 251
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 14, y: 22, z: 60, w: 13}
+    - name: arrow6
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 1911
+        width: 252
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 58, y: 23, z: 13, w: 14}
+    - name: background_scroll_bar
+      rect:
+        serializedVersion: 2
+        x: 1137
+        y: 1974
+        width: 500
+        height: 61
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 12, y: 15, z: 14, w: 10}
+    - name: medal_substrate
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1924
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thumb
+      rect:
+        serializedVersion: 2
+        x: 1860
+        y: 1888
+        width: 136
+        height: 136
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: arrow2
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1640
+        width: 132
+        height: 190
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: background_bar
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1772
+        width: 1024
+        height: 116
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 61, y: 33, z: 62, w: 30}
+    - name: text_field
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1816
+        width: 244
+        height: 68
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 10, y: 13, z: 9, w: 10}
+    - name: hand
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 1624
+        width: 154
+        height: 256
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: button
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1537
+        width: 373
+        height: 159
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 74, y: 45, z: 69, w: 33}
+    - name: button_pressed
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1548
+        width: 369
+        height: 148
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 72, y: 36, z: 66, w: 34}
+    - name: gameover
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1660
+        width: 442
+        height: 45
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: bronze_medal
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1490
+        width: 98
+        height: 100
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: getready
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1568
+        width: 448
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin_back
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1342
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: progrees_bar1
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 1441
+        width: 89
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menu
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1385
+        width: 257
+        height: 109
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: window2
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 996
+        width: 497
+        height: 498
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 43, y: 56, z: 41, w: 38}
+    - name: window3
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1008
+        width: 223
+        height: 502
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 1, y: 12, z: 10, w: 12}
+    - name: joystick
+      rect:
+        serializedVersion: 2
+        x: 1705
+        y: 1197
+        width: 250
+        height: 250
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: progrees_bar2
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1343
+        width: 91
+        height: 71
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: menu_pressed
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1259
+        width: 253
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin_front
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1194
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: progrees_bar3
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1244
+        width: 91
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ok
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1134
+        width: 257
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin_side1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1046
+        width: 101
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: progrees_bar4
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1147
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: progrees_bar5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1048
+        width: 93
+        height: 73
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: ok_pressed
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1018
+        width: 253
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin_side2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 900
+        width: 16
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: new
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 850
+        width: 243
+        height: 124
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rate
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 864
+        width: 256
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: start
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 864
+        width: 256
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tap1
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 859
+        width: 252
+        height: 121
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: tap2
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 859
+        width: 251
+        height: 120
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: coin_side3
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 748
+        width: 101
+        height: 132
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pause
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 686
+        width: 194
+        height: 127
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: play
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 688
+        width: 194
+        height: 128
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: rate_pressed
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 717
+        width: 256
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: start_pressed
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 724
+        width: 253
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toggle3
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 560
+        width: 194
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: gold_medal
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 630
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: pause_pressed
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 532
+        width: 191
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: play_pressed
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 532
+        width: 191
+        height: 122
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: score
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 568
+        width: 256
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: joystick1
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 444
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thumb2
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 530
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toggle2
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 554
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: silver_medal
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 511
+        width: 98
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: score_pressed
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 421
+        width: 256
+        height: 111
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toggle4
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 346
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: window
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 183
+        width: 496
+        height: 248
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: share
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 272
+        width: 256
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: thumb1
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 239
+        width: 192
+        height: 193
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toggle
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 312
+        width: 192
+        height: 194
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: share_pressed
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 132
+        width: 253
+        height: 101
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: toggle1
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 106
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
